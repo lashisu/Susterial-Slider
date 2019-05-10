@@ -1,0 +1,64 @@
+{
+  "_from": "slider-pro",
+  "_id": "slider-pro@1.5.0",
+  "_inBundle": false,
+  "_integrity": "sha512-uzsQdZecJ5a33MXvxIo4nvhkYtmRZhaxXDbTl/FIJxPkApriZF/kAV51PI15i2YocxWERei27VjvP12OST2srg==",
+  "_location": "/slider-pro",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "slider-pro",
+    "name": "slider-pro",
+    "escapedName": "slider-pro",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/slider-pro/-/slider-pro-1.5.0.tgz",
+  "_shasum": "1116a09727ef3f24a492fd961b64ab816f3c9af8",
+  "_spec": "slider-pro",
+  "_where": "C:\\Users\\Sushil Gupta\\Desktop\\Slide",
+  "author": {
+    "name": "bqworks",
+    "url": "http://bqworks.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/bqworks/slider-pro/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "David Ghiurau",
+      "email": "david.ghiurau@gmail.com"
+    }
+  ],
+  "deprecated": false,
+  "description": "Responsive jQuery slider, featuring modular architecture, CSS3 animations, touch swipe, animated layers, retina, lazy loading and much more.",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.10.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "homepage": "http://bqworks.com/slider-pro/",
+  "keywords": [
+    "jquery-plugin",
+    "slider-pro",
+    "responsive-slider"
+  ],
+  "license": "MIT",
+  "main": "./dist/js/jquery.sliderPro.js",
+  "name": "slider-pro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bqworks/slider-pro.git"
+  },
+  "version": "1.5.0"
+}
